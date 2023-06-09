@@ -50,3 +50,17 @@ section {
   z-index: 1;
   position: absolute;
 }
+
+/* My own css */
+h1 {
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+button#webcamButton {
+  border: none;
+  border-radius: 0.3rem;
+  padding: 0.5rem;
+  background-color: rgb(215, 215, 215);
+}
